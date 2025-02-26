@@ -19,3 +19,4 @@ WIP
 |--------|--------|
 |  if a == b:  |    mänschd (a is b) {}    |
 |  else if a == b:  |    mänschd des (a is b) {}    |
+|  else:  |    bischddadoganzsicher {}    |

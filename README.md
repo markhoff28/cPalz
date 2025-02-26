@@ -1,6 +1,6 @@
 # cPalz
 
-cPalz die ultimative Programmiersprache für die Pfalz
+cPalz die ultimative Programmiersprache für die Pfalz. Denn es gibt für einen Menschen nichts besseres als in der Pfalz zu leben.
 
 WIP
 

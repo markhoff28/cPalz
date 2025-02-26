@@ -13,3 +13,8 @@ WIP
 |  str  |    text    |  |
 |  No  |    dubbeglaas    | Enthält ein Schbbe |
 |  No  |    schobbe    | 500 |
+
+## Selektionen
+|Name Python |Name in cPalz|
+|--------|--------|
+|  if a == b:  |    mänschd (a is b) {}    |

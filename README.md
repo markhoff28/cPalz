@@ -23,4 +23,5 @@ WIP
 
 ## Schleifen
 |Name PHO |Name in cPalz|
+|--------|--------|
 |  ($i = 1; $i <= 10; $i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |

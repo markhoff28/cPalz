@@ -20,3 +20,7 @@ WIP
 |  if a == b:  |    mänschd (a is b) {}    |
 |  else if a == b:  |    mänschd des (a is b) {}    |
 |  else:  |    bischddadoganzsicher {}    |
+
+## Schleifen
+|Name PHO |Name in cPalz|
+|  ($i = 1; $i <= 10; $i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |

@@ -22,6 +22,6 @@ WIP
 |  else:  |    bischddadoganzsicher {}    |
 
 ## Schleifen
-|Name PHO |Name in cPalz|
+|Name PHO (PHP) |Name in cPalz|
 |--------|--------|
 |  ($i = 1; $i <= 10; $i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |

@@ -8,7 +8,8 @@ WIP
 |Name Python |Name in cPalz| Wert|
 |--------|--------|--------|
 |  bool  |    wohr    | True / False |
-|  float  |    zaal    |  |
+|  float  |    kommazaal    |  |
+|  int  |    zaahl    |  |
 |  list  |    lischd    |  |
 |  str  |    text    |  |
 |  No  |    dubbeglaas    | Enthält ein Schbbe |

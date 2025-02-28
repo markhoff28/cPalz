@@ -5,13 +5,13 @@ cPalz die ultimative Programmiersprache für die Pfalz. Denn es gibt für einen 
 WIP
 
 ## Einfache Datentypen
-|Name Python |Name in cPalz| Wert|
+|Name andere Programmiersprache |Name in cPalz| Wert|
 |--------|--------|--------|
 |  bool  |    wohr    | True / False |
-|  float  |    kommazaal    |  |
+|  double  |    kommazaal    |  |
 |  int  |    zaahl    |  |
-|  list  |    lischd    |  |
-|  str  |    text    |  |
+|  array  |    lischd    |  |
+|  string  |    text    |  |
 |  No  |    dubbeglaas    | Enthält ein Schbbe |
 |  No  |    schobbe    | 500 |
 

@@ -27,3 +27,4 @@ WIP
 |--------|--------|
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
 |  while ( i <= 10) { i++;}  |    TBD    |
+|  do {things(); } while ( i <= 10)  |    TBD    |

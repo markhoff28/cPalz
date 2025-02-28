@@ -26,3 +26,4 @@ WIP
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
+|  while ( i <= 10) { i++;}  |    TBD    |

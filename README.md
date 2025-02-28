@@ -5,7 +5,7 @@ cPalz die ultimative Programmiersprache für die Pfalz. Denn es gibt für einen 
 WIP
 
 ## Einfache Datentypen
-|Name andere Programmiersprache |Name in cPalz| Wert|
+|Name in anderen Programmiersprachen |Name in cPalz| Wert|
 |--------|--------|--------|
 |  bool  |    wohr    | True / False |
 |  double  |    kommazaal    |  |
@@ -16,13 +16,13 @@ WIP
 |  No  |    schobbe    | 500 |
 
 ## Selektionen
-|Name Python |Name in cPalz|
+|Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  if a == b:  |    mänschd (a is b) {}    |
 |  else if a == b:  |    mänschd des (a is b) {}    |
 |  else:  |    bischddadoganzsicher {}    |
 
 ## Schleifen
-|Name PHO (PHP) |Name in cPalz|
+|Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
-|  ($i = 1; $i <= 10; $i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
+|  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |

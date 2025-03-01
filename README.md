@@ -28,3 +28,10 @@ WIP
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
 |  while ( i <= 10) { i++;}  |    TBD    |
 |  do {things(); } while ( i <= 10)  |    TBD    |
+
+## Kommentare
+|Setzzung in anderen Programmiersprachen |Name in cPalz|
+|--------|--------|
+|  // Ein Kommentar  |    // Ein Kommentar    |
+| /* Kommentar über mehrere Zeilen */  |    /* Kommentar über mehrere Zeilen */    |
+|    |    TBD    |

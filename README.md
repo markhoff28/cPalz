@@ -13,6 +13,7 @@ WIP
 |  array  |    lischd    |  |
 |  string  |    text    |  |
 |  No  |    dubbeglaas    | Enthält ein Schbbe |
+|  No  |    dubbe    | Ein 38stel eines Schobbes |
 |  No  |    schobbe    | 500 |
 
 ## Selektionen

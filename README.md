@@ -34,4 +34,4 @@ WIP
 |--------|--------|
 |  // Ein Kommentar  |    // Ein Kommentar    |
 | /* Kommentar über mehrere Zeilen */  |    /* Kommentar über mehrere Zeilen */    |
-|    |    TBD    |
+| # Kommentar   |    Machen wir hier nicht    |

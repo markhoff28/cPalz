@@ -38,8 +38,20 @@ switch (day) {
     System.out.println("Looking forward to the Weekend");
 }
 ```
-Umsetzung in cPalz
-
+Umsetzung in cPalz:
+```java
+zaahl daach = 4;
+schalder (daach) {
+  option 6:
+    schreib("Samsdaach");
+    uffhere;
+  option 7:
+    schreib("Sundach");
+    uffhere;
+  default:
+    schreib("Looking forward to the Weekend");
+}
+```
 
 ## Schleifen
 |Name in anderen Programmiersprachen |Name in cPalz|

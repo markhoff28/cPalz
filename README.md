@@ -23,6 +23,24 @@ WIP
 |  else if a == b:  |    mänschd des (a is b) {}    |
 |  else:  |    bischddadoganzsicher {}    |
 
+## Switch Statements
+Beispiel in Java:
+```java
+int day = 4;
+switch (day) {
+  case 6:
+    System.out.println("Today is Saturday");
+    break;
+  case 7:
+    System.out.println("Today is Sunday");
+    break;
+  default:
+    System.out.println("Looking forward to the Weekend");
+}
+```
+Umsetzung in cPalz
+
+
 ## Schleifen
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|

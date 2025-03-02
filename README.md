@@ -31,7 +31,7 @@ WIP
 |  do {things(); } while ( i <= 10)  |    TBD    |
 
 ## Kommentare
-Sind wichtig, des habl haben wir sie hier auch
+Sind wichtig, deshabl haben wir sie hier ebenfalls
 |Setzzung in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  // Ein Kommentar  |    // Ein Kommentar    |

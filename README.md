@@ -48,7 +48,7 @@ schalder (daach) {
   option 7:
     schreib("Sundach");
     uffhere;
-  default:
+  schunschd:
     schreib("Looking forward to the Weekend");
 }
 ```

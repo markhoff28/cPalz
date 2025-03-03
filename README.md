@@ -58,7 +58,7 @@ schalder (daach) {
 |--------|--------|
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
 |  while ( i <= 10) { i++;}  |    solang ( i <= 10) { i++;}    |
-|  do {things(); } while ( i <= 10)  |    TBD    |
+|  do {things(); } while ( i <= 10)  |    mach {} solang ( i <= 10)    |
 
 ## Kommentare
 Sind wichtig, deshabl haben wir sie hier ebenfalls

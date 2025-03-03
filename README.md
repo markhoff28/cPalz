@@ -57,7 +57,7 @@ schalder (daach) {
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
-|  while ( i <= 10) { i++;}  |    TBD    |
+|  while ( i <= 10) { i++;}  |    solang ( i <= 10) { i++;}    |
 |  do {things(); } while ( i <= 10)  |    TBD    |
 
 ## Kommentare

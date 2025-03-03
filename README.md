@@ -62,7 +62,7 @@ Wie jede richtige Programmiersprache haben wir auch Schleifen.
 |  do {things(); } while ( i <= 10)  |    mach {} solang ( i <= 10)    |
 
 ## Kommentare
-Sind wichtig, deshabl haben wir sie hier ebenfalls
+Sind wichtig, deshalb haben wir sie hier ebenfalls.
 |Setzzung in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  // Ein Kommentar  |    // Ein Kommentar    |

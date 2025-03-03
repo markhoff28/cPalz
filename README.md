@@ -54,6 +54,7 @@ schalder (daach) {
 ```
 
 ## Schleifen
+Wie jede richtige Programmiersprache haben wir auch Schleifen.
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |

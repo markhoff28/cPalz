@@ -66,6 +66,7 @@ Auch cPalz nutzt Sichtbarkeiten für Vartiablen, Funktionen und Klassen
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
 |  public  |    oeffentlich    |
+|  protacted  |    gschuetzt    |
 
 ## Kommentare
 Sind wichtig, deshalb haben wir sie hier ebenfalls.

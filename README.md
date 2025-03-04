@@ -61,6 +61,9 @@ Wie jede richtige Programmiersprache haben wir auch Schleifen.
 |  while ( i <= 10) { i++;}  |    solang ( i <= 10) { i++;}    |
 |  do {things(); } while ( i <= 10)  |    mach {} solang ( i <= 10)    |
 
+## Sichtbarkeiten
+Auch cPalz nutzt Sichtbarkeiten für Vartiablen, Funktionen und Klassen
+
 ## Kommentare
 Sind wichtig, deshalb haben wir sie hier ebenfalls.
 |Setzzung in anderen Programmiersprachen |Name in cPalz|

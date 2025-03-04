@@ -57,12 +57,15 @@ schalder (daach) {
 Wie jede richtige Programmiersprache haben wir auch Schleifen.
 |Name in anderen Programmiersprachen |Name in cPalz|
 |--------|--------|
-|  for (int i = 1; i <= 10; i++) {}  |    schleif (zaahl p = 0; p <= 10; p++) {}    |
+|  for (int i = 1; i <= 10; i++) {}  |    schleife (zaahl p = 0; p <= 10; p++) {}    |
 |  while ( i <= 10) { i++;}  |    solang ( i <= 10) { i++;}    |
 |  do {things(); } while ( i <= 10)  |    mach {} solang ( i <= 10)    |
 
 ## Sichtbarkeiten
 Auch cPalz nutzt Sichtbarkeiten für Vartiablen, Funktionen und Klassen
+|Name in anderen Programmiersprachen |Name in cPalz|
+|--------|--------|
+|  public  |    oeffentlich    |
 
 ## Kommentare
 Sind wichtig, deshalb haben wir sie hier ebenfalls.

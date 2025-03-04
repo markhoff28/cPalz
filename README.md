@@ -67,6 +67,7 @@ Auch cPalz nutzt Sichtbarkeiten für Vartiablen, Funktionen und Klassen
 |--------|--------|
 |  public  |    oeffentlich    |
 |  protacted  |    gschuetzt    |
+|  private  |    privad    |
 
 ## Kommentare
 Sind wichtig, deshalb haben wir sie hier ebenfalls.

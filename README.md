@@ -4,6 +4,23 @@ cPalz die ultimative Programmiersprache für die Pfalz. Denn es gibt für einen 
 
 WIP
 
+## Klassen und Funktionen
+Beispiel in Java:
+```java
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+```
+Umsetzung in cPalz:
+```text
+// ToDo
+```
+
 ## Einfache Datentypen
 |Name in anderen Programmiersprachen |Name in cPalz| Wert|
 |--------|--------|--------|

@@ -39,7 +39,7 @@ switch (day) {
 }
 ```
 Umsetzung in cPalz:
-```java
+```text
 zaahl daach = 4;
 schalder (daach) {
   option 6:

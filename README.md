@@ -24,7 +24,7 @@ oeffentlich klasse Main {
   oeffentlich test() {
     schreib(a);
   }
-}// ToDo
+}
 ```
 
 ## Einfache Datentypen

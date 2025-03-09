@@ -18,7 +18,13 @@ public class Main {
 ```
 Umsetzung in cPalz:
 ```text
-// ToDo
+oeffentlich klasse Main {
+  zaahl a = 5;
+
+  oeffentlich test() {
+    schreib(a);
+  }
+}// ToDo
 ```
 
 ## Einfache Datentypen
